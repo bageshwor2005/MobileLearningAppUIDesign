@@ -1,0 +1,10 @@
+{
+  "description": "This mobile-first educational app organizes learning content hierarchically, enabling students to easily navigate through faculties, subjects, and chapters for efficient study.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
